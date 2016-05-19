@@ -1,10 +1,10 @@
 {
-  "name": "react-fontawesome",
+  "name": "react-stroke-7",
   "version": "1.1.0",
-  "description": "A React component for the font-awesome icon library.",
+  "description": "A React component for pixeden's stroke-7 icon font set.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danawoodman/react-fontawesome.git"
+    "url": "git+https://github.com/CianCoders/react-stroke-7.gitt"
   },
   "config": {
     "entry": "src",
@@ -12,7 +12,7 @@
     "mainFile": "src/index.js"
   },
   "bugs": {
-    "url": "https://github.com/danawoodman/react-fontawesome/issues"
+    "url": "https://github.com/CianCoders/react-stroke-7/issues"
   },
   "main": "lib/index.js",
   "scripts": {
@@ -27,18 +27,18 @@
   },
   "keywords": [
     "react",
-    "font-awesome",
-    "fontawesome",
+    "font-stroke7",
+    "pixeden",
+    "stroke7",
     "bootstrap",
     "icons",
     "fonts",
     "icon",
-    "danawoodman",
-    "big",
     "style",
     "jsx",
     "react-component",
-    "component"
+    "component",
+    "ciancoders"
   ],
   "author": "Dennis Xiloj <denjohx@gmail.com> (https://ciancoders.com)",
   "license": "MIT",
@@ -63,7 +63,7 @@
     "sinon": "^1.16.1",
     "sinon-chai": "^2.8.0"
   },
-  "homepage": "https://github.com/danawoodman/react-fontawesome#readme",
+  "homepage": "https://github.com/CianCoders/react-stroke-7#readme",
   "engines": {
     "node": ">=0.10.0"
   },
