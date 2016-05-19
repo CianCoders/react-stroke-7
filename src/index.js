@@ -9,7 +9,7 @@ import React from 'react'
  * @param {Boolean} [fixedWidth=false] Make buttons fixed width
  * @param {String} [flip=false] Flip the icon's orientation.
  * @param {Boolean} [inverse=false]Inverse the icon's color
- * @param {Boolean} [li=false] Icon replaces <li> bullets (has to be used inside <ul className='pe-ul'> tags)
+ * @param {Boolean} [li=false] Icon replaces `<li>` bullets (has to be used inside `<ul className='pe-ul'>` tags)
  * @param {String} name Name of the icon to use
  * @param {Number} [rotate] The degress to rotate the icon by
  * @param {String} [size] The icon scaling size
